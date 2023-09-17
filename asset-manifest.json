@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sami/static/css/main.48325e92.css",
+    "main.js": "/Sami/static/js/main.10cbcea9.js",
+    "index.html": "/Sami/index.html",
+    "main.48325e92.css.map": "/Sami/static/css/main.48325e92.css.map",
+    "main.10cbcea9.js.map": "/Sami/static/js/main.10cbcea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48325e92.css",
+    "static/js/main.10cbcea9.js"
+  ]
+}
